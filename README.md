@@ -1,4 +1,4 @@
-##Advanced Keylogger
+## Advanced Keylogger
 
 Overview:-
 The Advanced Keylogger is a powerful and discreet software tool designed to track and record keystrokes on a target device. It offers advanced features and functionalities that make it an ideal choice for various applications, such as parental control, employee monitoring, and personal data protection.
@@ -15,7 +15,7 @@ Encryption: Protect the recorded data with advanced encryption techniques to ens
 ## Tech Stack
 - Python
 - Pycharm
-*Required Modules:-
+## Required Modules:-
 - pywin32
 - pynput
 - scipy
